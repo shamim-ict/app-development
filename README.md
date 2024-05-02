@@ -5,8 +5,12 @@ This repository contains materials from my presentation on mobile app developmen
 **What You'll Find:**
 
 * **ToDoList-App:**
+ 
+  ![Screenshot](app-screenshot.jpeg)
+
     * A basic iOS To-Do List application built with Swift and SwiftUI.
     * Demonstrates core concepts like UI design, data storage, and task management.
+ 
 * **code-samurai-2024-presentation.key**
     * My presentation slides (Keynote format) covering:
         * Introduction to Mobile App Development
@@ -38,6 +42,6 @@ I welcome your feedback and suggestions to improve these resources. If you'd lik
 
 If you have questions or want to discuss mobile development, feel free to reach out:
 
-* **LinkedIn[https://www.linkedin.com/in/shamim-hossain-57853164]**
+* **[LinkedIn](https://www.linkedin.com/in/shamim-hossain-57853164)**
 
 **Thank you for exploring!**
